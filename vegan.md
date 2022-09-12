@@ -1,4 +1,11 @@
 
+
+fromage vegan
+halgues
+pain sans glutaine
+maïs
+avocat
+
 legumes
 cereales complete
 graines
@@ -10,4 +17,5 @@ fromage vegan
 halgues
 pain sans glutaine
 maïs
+
 

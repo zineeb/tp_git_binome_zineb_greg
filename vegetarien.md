@@ -1,4 +1,12 @@
 
+toffu
+steak de thon
+champignons
+salade
+riz
+harricots rouges
+
+legumes
 cereales complete
 graines
 fruits oléagineux
